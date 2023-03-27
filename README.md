@@ -42,7 +42,7 @@ Open a terminal and -
 ```bash
 git clone https://github.com/Dembezum/bspwm-enchanted.git
 ```
-**2. cd into bspwm-gentoo**
+**2. cd into bspwm-enchanted**
 ```bash
 cd bspwm-enchanted
 ```
